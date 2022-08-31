@@ -1,3 +1,6 @@
+- https://github.com/sparkfun/freedom-e-sdk/blob/v201908-branch/bsp
+- https://github.com/danak6jq/freedom-e-sdk/tree/master/bsp
+
 # SiFive Freedom E SDK README #
 
 This repository, maintained by SiFive Inc, makes it easy to get started developing
