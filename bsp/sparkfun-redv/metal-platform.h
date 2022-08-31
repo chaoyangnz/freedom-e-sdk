@@ -1,6 +1,6 @@
 /* Copyright 2019 SiFive, Inc */
 /* SPDX-License-Identifier: Apache-2.0 */
-/* ----------------------------------- */
+/* -------------redboard-v------------ */
 /* ----------------------------------- */
 
 #ifndef METAL_PLATFORM_H
